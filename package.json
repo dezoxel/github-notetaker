@@ -1,0 +1,35 @@
+{
+  "name": "github-notetaker",
+  "version": "0.0.1",
+  "description": "Pulls info by username and shows it",
+  "main": "public/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dezoxel/github-notetaker.git"
+  },
+  "keywords": [
+    "github",
+    "notes",
+    "api",
+    "react",
+    "example"
+  ],
+  "author": "dezoxel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dezoxel/github-notetaker/issues"
+  },
+  "homepage": "https://github.com/dezoxel/github-notetaker",
+  "dependencies": {
+    "react": "~0.13.3"
+  },
+  "devDependencies": {
+    "babel-core": "~5.6.15",
+    "node-libs-browser": "~0.5.2",
+    "webpack": "~1.10.0",
+    "babel-loader": "~5.2.2"
+  }
+}
